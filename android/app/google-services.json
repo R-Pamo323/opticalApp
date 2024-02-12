@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728626471149",
+    "project_id": "tuvision-21b46",
+    "storage_bucket": "tuvision-21b46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728626471149:android:62b2bfaebe86036c61ece4",
+        "android_client_info": {
+          "package_name": "com.hazarddevs.opticalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728626471149-4i8n8sd88u2qabeplpmbmms4a45o09m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9xH2lEVjtw82ym4lXBM8aFXFbcWbStf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728626471149-4i8n8sd88u2qabeplpmbmms4a45o09m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
